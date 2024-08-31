@@ -1,0 +1,3 @@
+ipywidgets
+markdown2
+langchain
